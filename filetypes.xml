@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
+      <mapping ext="woff" type="Native" />
     </extensionMap>
   </component>
 </application>
