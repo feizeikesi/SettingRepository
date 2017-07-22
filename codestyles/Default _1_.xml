@@ -13,6 +13,7 @@
     <option name="SPACES_IN_IMPORTS" value="true" />
     <option name="SPACES_AROUND_AT_IN_PATTERNS" value="true" />
     <option name="NEWLINE_AFTER_ANNOTATIONS" value="true" />
+    <option name="CALL_PARAMETERS_NEW_LINE_AFTER_LPAREN" value="1" />
   </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -24,7 +25,6 @@
     <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
