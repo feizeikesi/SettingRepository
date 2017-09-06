@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
       <mapping ext="woff" type="Native" />
+      <mapping ext="p12" type="Native" />
     </extensionMap>
   </component>
 </application>
