@@ -1,1 +1,9 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.data.back.user.track.entity.track.source.query.TrackUserQueryEntity" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
+</code_scheme>
