@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="archive-batch" type="Bash" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping ext="avsc" type="JSON" />
-      <mapping ext="p12" type="Native" />
       <mapping ext="woff" type="Native" />
+      <mapping ext="p12" type="Native" />
       <mapping pattern="site" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
