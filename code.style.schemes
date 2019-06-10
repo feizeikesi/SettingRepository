@@ -1,0 +1,17 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <ScalaCodeStyleSettings>
+          <option name="alwaysUsedImports">
+            <array>
+              <option value="com.data.back.user.track.avro.AvroUtil.AvroCompression" />
+              <option value="com.data.back.user.track.entity.track.source.query.TrackUserQueryEntity" />
+            </array>
+          </option>
+        </ScalaCodeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
