@@ -3,6 +3,6 @@
     <EXCLUDED_PACKAGE NAME="java.io.File" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
 </application>
